@@ -9,7 +9,7 @@ const Projects = ({dark}) => {
             tags: ["Android App", "Flutter"]
         },
         {
-            title: "WeatherNow",
+            title: "TCB Goods Distribution System",
             desc: "A DBMS project which is implemented with Oracle and PHP.",
             tags: ["SQL", "Oracle", "PHP"]
         }
